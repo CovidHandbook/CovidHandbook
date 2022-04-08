@@ -229,9 +229,12 @@
 
 * [上海疫情期间线上活动汇总 (qq.com)](https://docs.qq.com/sheet/DR3p2dmF4Znh6Rlp0?tab=BB08J2)
 
-## 上海疫情自救/互助手册 志愿者交流群
+## 上海疫情自救/互助手册 意见/建议/贡献
 
-该手册仍有很多不完善的地方, 如果您有更多的资源信息, 或对文档有其他意见和建议, 可以加入"上海疫情自救/互助手册"志愿者微信群:
+该手册仍有很多不完善的地方, 如果您有更多的资源信息, 或对文档有其他意见和建议, 可以参与对本文档的修订
+
+* 方式1: github项目提issue, [CovidHandbook (github.com)](https://github.com/CovidHandbook/CovidHandbook) 
+* 方式2: 加入"上海疫情自救/互助手册"志愿者微信群
 
 <img src="imgs\wechat_group.jpg" alt="wechat_group" style="zoom: 33%;" />
 
